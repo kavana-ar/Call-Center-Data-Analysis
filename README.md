@@ -28,6 +28,8 @@ This Excel project analyzes **2023 call center data** to understand call volume,
 
 * [raw_data](sample-data-excel-portfolio-project.xlsx)
 * [cleaned_and_analysed](excel-prortfolio-output.xlsx)
+<img width="1774" height="887" alt="ChatGPT Image Sep 15, 2026, 04_17_32 PM" src="https://github.com/user-attachments/assets/a3dab75d-de57-47f2-9e57-4caaf1d06dfd" />
+
 
 ## 🎯 Objective
 

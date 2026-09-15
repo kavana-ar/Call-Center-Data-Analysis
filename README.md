@@ -2,28 +2,33 @@
 
 ## 📌 Project Overview
 
-This project analyzes call center data using **Microsoft Excel** to understand call performance, customer satisfaction, and agent productivity.
+This Excel project analyzes **2023 call center data** to understand call volume, revenue, call duration, customer ratings, and agent performance. An interactive dashboard was created to present key insights clearly.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Techniques
 
 * Microsoft Excel
-* Pivot Tables
 * Data Cleaning
-* Data Analysis
+* Pivot Tables
+* Pivot Charts
+* Excel Dashboard
+* Data Visualization
 
-## 📊 Analysis Performed
+## 📊 Key Analysis
 
-* Analyzed total calls and call duration
-* Measured customer satisfaction
-* Compared agent performance
-* Analyzed call resolution and response trends
-* Created interactive dashboards to present key insights
+* Total calls, amount, and call duration
+* Monthly call trends
+* Calls by day of the week
+* Female vs. male callers
+* Customer rating distribution
+* Calls and revenue by representative
+* Customer-level call and revenue analysis
+* Average customer rating and happy callers
 
 ## 📁 Files
 
-* **sample-data-excel-portfolio-project.xlsx** – Raw/sample dataset used for analysis
-* **excel-prortfolio-output.xlsx** – Final Excel analysis 
+* [raw_data](sample-data-excel-portfolio-project.xlsx)
+* [cleaned_and_analysed](excel-prortfolio-output.xlsx)
 
-## 🎯 Key Objective
+## 🎯 Objective
 
-The main objective is to use Excel to transform raw call center data into meaningful insights that can help understand **customer experience and agent performance**.
+The objective of this project is to transform raw call center data into an interactive Excel dashboard and identify **customer and agent performance insights** that can support better decision-making.
